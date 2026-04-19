@@ -15,7 +15,7 @@ The gerber file is ready for ordering at JLCPCB.
 The schematic contains LCSC part numbers which can be exported to a BOM.
 
 ### Udev rules
-This repository contains an udev rules file that maps the UART ports to ```/dev/usb2lin/a@,b@,c@,d@```, matching the boards silkscreen.
+This repository contains a udev rules file that maps the UART ports to ```/dev/lin/a@,b@,c@,d@```, matching the boards silkscreen.
 
 ---
 
