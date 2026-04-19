@@ -19,6 +19,6 @@ This repository contains an udev rules file that maps the UART ports to ```/dev/
 
 ---
 
-![PCB Top](images/pcb.png)
+![PCB Top](images/pcb.jpg)
 
 ![PCB Top](images/photo.jpg)
